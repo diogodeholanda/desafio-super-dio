@@ -1,1 +1,2 @@
-console.log("mensagem de teste")
+let nome = "Diogo"
+console.log("O nome é" + nome)
